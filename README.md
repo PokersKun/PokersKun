@@ -1,9 +1,10 @@
 ## Nice to meet you 😉
 
-![PokersKun's github stats](https://github-readme-stats.vercel.app/api?username=PokersKun&show_icons=true)
-<br>
+![Stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PokersKun&layout=compact)
+![Top Languages](./profile/top-langs.svg)
+
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--
 **PokersKun/PokersKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
